@@ -133,12 +133,12 @@ h6 {
 
 
 
-#about ul {
+ul {
   list-style: none;
   text-align: justify;
 }
 
-#about p {
+p {
   text-align: justify;
 }
 

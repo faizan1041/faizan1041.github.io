@@ -1,0 +1,13 @@
+/*
+@author: Faizan Ali
+*/
+
+
+ul {
+  list-style: none;
+  text-align: justify;
+}
+
+p {
+  text-align: justify;
+}
