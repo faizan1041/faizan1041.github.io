@@ -1,35 +1,54 @@
-# Landing Page Jekyll theme
+# Orbit
+> This theme is designed by Xiaoying Riley at [3rd Wave Media](http://themes.3rdwavemedia.com/). 
+> Visit her [website](http://themes.3rdwavemedia.com/) for more themes.
 
-Jekyll theme based on [landing-page bootstrap theme ](http://startbootstrap.com/templates/landing-page/)
+I have made this into a Jekyll Theme. Checkout the live demo [here](http://webjeda.com/online-cv/).
 
-## How to use
- - Place a image in `/img/services/`
- - Create posts to display your services. Use the follow as an example:
+<table>
+  <tr>
+    <th>Desktop</th>
+    <th>Mobile</th>
+  </tr>
+  <tr>
+    <td>
+        <img src="/assets/images/desktop.png?raw=true" width="600"/>
+    </td>
+    <td>
+        <img src="/assets/images/mobile.png?raw=true" width="250"/>
+    </td>
+  </tr>
+</table>
 
-```txt
----
-layout: default
-img: ipad.png
-category: Services
-title: The service title
----
-The description of this service
-```
+## Installation
 
-## Demo
-View this jekyll theme in action [here](https://swcool.github.io/landing-page-theme)
+* [Fork](https://github.com/sharu725/online-cv/fork) the repository
+* Go to settings and set Github Pages source as master.
+* Your new site should be ready at `https://username.github.io/online-cv/`
 
-## Screenshot
-![screenshot](https://raw.githubusercontent.com/swcool/landing-page-theme/master/img/screenshot.png)
+Change all the details from one place: ``_data/data.yml``
 
-===
+Watch my [video](https://www.youtube.com/embed/T2nx6tj-ZH4) on installation.
 
-For more Jekyll details, read [documentation](http://jekyllrb.com/).
-This Jekyll theme used [Freelancer Jekyll theme](https://github.com/jeromelachaud/freelancer-theme/) as reference.
+## Skins
+
+There are 6 color schemes available:
+
+| Blue | Turquoise | Green |
+|---------|---------|---------|
+| <img src="/assets/images/blue.jpg" width="300"/> | <img src="/assets/images/turquoise.jpg" width="300"/> | <img src="/assets/images/green.jpg" width="300"/> |
+
+| Berry | Orange | Ceramic |
+|---------|---------|---------|
+| <img src="/assets/images/berry.jpg" width="300"/> | <img src="/assets/images/orange.jpg" width="300"/> | <img src="/assets/images/ceramic.jpg" width="300"/> |
+
+## Credits
+
+Thanks to [Nelson Estevão](https://github.com/nelsonmestevao) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=nelsonmestevao).
+
+Thanks to [t-h-e(sfrost)](https://github.com/t-h-e) for all the [contributions](https://github.com/sharu725/online-cv/commits?author=t-h-e).
+
+Check out for more themes: [**Jekyll Themes**](http://jekyll-themes.com).
 
 ## License
-The contents of this repository are licensed under the [Apache
-2.0](http://www.apache.org/licenses/LICENSE-2.0.html).
 
-## Version
-1.0.1
+This project is licensed under the [MIT license](LICENSE.txt).
