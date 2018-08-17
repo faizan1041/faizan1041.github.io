@@ -26,3 +26,9 @@ compress_html: # - http://jch.penibelst.de/
 port: 4000
 host: 0.0.0.0
 safe: false
+
+
+data:
+  data:
+    career-profile:
+      title: AI | DevOps | Big Data | Full Stack Web Development
