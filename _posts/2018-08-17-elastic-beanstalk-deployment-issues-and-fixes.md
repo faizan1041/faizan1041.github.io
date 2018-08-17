@@ -2,7 +2,7 @@
 layout: post
 title:  "Elastic Beanstalk - Issues with deployment and fixes using Mautic as a sample application"
 date:   2018-08-17 18:04
-Categories: DevOps
+categories: DevOps
 ---
 
 A few days ago I was deploying a Symfony based app called <a href="https://www.mautic.org/">Mautic</a> to Elastic Beanstalk for a client. Basically, it was all about speed optimzation but during deployment I faced a lot of issues like dealing with the permissions, file ownerships and etc. So, I decided to make a video tutorial for that. 
