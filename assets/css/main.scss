@@ -6,3 +6,8 @@
 
 @import "skins/{{ site.theme_skin | default: 'blue' }}"; // skin
 @import "default"; // main partials
+
+
+.main-wrapper {
+    min-height: 890px;
+}
